@@ -31,3 +31,16 @@
 	padding: 10px;
 	background: linear-gradient(to right, #000000, #B20710, #E50914);
 }
+
+.heading {
+	color: white;
+	background: linear-gradient(to right, #000000, #B20710, #E50914);
+	align-items: center;
+
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+	margin-bottom: 20px;
+}
