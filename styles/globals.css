@@ -39,3 +39,14 @@ img {
 h2 {
 	align-items: center;
 }
+
+button {
+	width: 150px;
+	height: 50px;
+	border: 2px solid white;
+	color:rgb(227, 24, 24) ;
+	align-items: center;
+}
+p {
+	padding: 20px;
+}

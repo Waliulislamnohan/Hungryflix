@@ -49,8 +49,14 @@ export default function Home() {
 					<img src="https://i.ibb.co/kXvSz0V/Stream-it-from-your-mobile-Tv-Laptop.png" alt="A beautiful landscape" />
 				</div>
 			</header>
-		<div>
-
+		<div className={styles.sectionOne}>
+			<button>Contact Us</button>
+		</div>
+		<div className={styles.sectionTwo}>
+			<div><img src='https://i.ibb.co/5hD0n7k/media.png' /></div>
+			<div><img src='https://i.ibb.co/JmxB5NJ/sub.png' /></div>
+			
+			
 		</div>
 	</>)
 }
