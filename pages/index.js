@@ -58,5 +58,8 @@ export default function Home() {
 			
 			
 		</div>
+		<div className={styles.sectionThree}> 
+
+		</div>
 	</>)
 }
