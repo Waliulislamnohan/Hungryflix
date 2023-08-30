@@ -59,7 +59,7 @@ export default function Home() {
 			
 		</div>
 		<div className={styles.sectionThree}> 
-
+		<img src='https://i.ibb.co/Vm8Vp13/TV-940-1000px.png' />
 		</div>
 	</>)
 }

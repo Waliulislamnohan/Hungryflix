@@ -68,5 +68,11 @@
 }
 
 .sectionThree {
-	
+	width: 100%;
+    height: 80vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to right, #000000, #B20710, #E50914);
+    padding: 40px;
 }
