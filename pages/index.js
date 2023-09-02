@@ -60,6 +60,26 @@ export default function Home() {
 		</div>
 		<div className={styles.sectionThree}> 
 		<img src='https://i.ibb.co/Vm8Vp13/TV-940-1000px.png' />
+		<h3>COMING SOON...</h3> <br />
+		<h3>YOUR ALL-IN-ONE STREAMING HUB</h3>
+		</div>
+		<div className={styles.sectionFour}>
+			<div><img src='https://i.ibb.co/k9Tc9SC/call.png' /></div>
+			<div><img src='https://i.ibb.co/dBbhzk5/banner.png' /></div>
+		</div>
+
+		<div className={styles.sectionFive}>
+			<div><img src='https://i.ibb.co/QNVPSSt/hungryflix.png' /></div> 
+			<h1>Elevate your entertainment<br/>experience with  hungryflix!</h1>
+		</div>
+		
+		<div className={styles.sectionSix}>
+		<img className={styles.image} src='https://i.ibb.co/kXvSz0V/Stream-it-from-your-mobile-Tv-Laptop.png' />
+		</div>
+		<div className={styles.last}>
+		<div><img className={styles.image} src='https://i.ibb.co/0MnZdcQ/IMG-4868.jpg' /></div>
+		<div><button>Join now</button></div>
+		<div></div>
 		</div>
 	</>)
 }
