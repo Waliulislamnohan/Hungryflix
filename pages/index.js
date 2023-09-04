@@ -80,6 +80,7 @@ export default function Home() {
 		<div><img className={styles.image} src='https://i.ibb.co/0MnZdcQ/IMG-4868.jpg' /></div>
 		<div><button>Join now</button></div>
 		<div></div>
+		<div></div>
 		</div>
 	</>)
 }
