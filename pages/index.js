@@ -81,6 +81,7 @@ export default function Home() {
 		<div><button>Join now</button></div>
 		<div></div>
 		<div></div>
+		<div></div>
 		</div>
 	</>)
 }
