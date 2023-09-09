@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
 
-	return (<>
+	return (<div className={styles.fullbody}>
 	  <Head>
         <title>Hungryflix</title>
         <meta name="description" content="The Hunger aid of your ENTERTAINMENT needs" />
@@ -85,5 +85,5 @@ export default function Home() {
 		<div></div>
 		<div></div>
 		</div>
-	</>)
+	</div>)
 }

@@ -130,4 +130,52 @@ justify-content: center;
     padding: 40px;
 	flex-direction: column;
 	color: white;
+	 
+}
+
+
+.sectionTwo, .sectionFour, .sectionFive {
+    flex-wrap: wrap;
+}
+/* Small Tablets and Mobile */
+@media only screen and (max-width: 768px) {
+
+    .banner {
+        flex-direction: column-reverse;
+        height: auto;
+        padding: 50px 20px;
+    }
+    
+    .bannerOne {
+        padding: 20px 0;
+        text-align: center;
+    }
+    
+    .sectionOne, .sectionThree, .sectionFour, .sectionFive, .sectionSix, .last {
+        height: auto;
+        padding: 20px;
+    }
+    
+    .image {
+        width: 100%;
+    }
+    
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+/* Very Small Mobile Devices */
+@media only screen and (max-width: 480px) {
+    .navbar ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    .fullbody {
+		width: 620px;
+	}
+    .navbar ul li {
+        margin: 5px 0;
+    }
 }
