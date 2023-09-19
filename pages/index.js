@@ -59,6 +59,7 @@ export default function Home() {
 			
 		</div>
 		<div className={styles.sectionThree}> 
+		<br />
 		<img src='https://i.ibb.co/Vm8Vp13/TV-940-1000px.png' />
 		<h3>COMING SOON...</h3> <br />
 		<h3>YOUR ALL-IN-ONE STREAMING HUB</h3>
